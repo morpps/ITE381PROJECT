@@ -1,0 +1,6 @@
+{
+  "name": "NEUST Enrollment",
+  "description": "High-capacity, crash-resilient NEUST student enrollment portal with auto-save drafts, smart queuing, and course assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
